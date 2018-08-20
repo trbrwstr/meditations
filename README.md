@@ -1,0 +1,2 @@
+# meditations
+The Stoic App
